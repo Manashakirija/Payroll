@@ -1,0 +1,31 @@
+.class3{
+    border:2px solid transparent;
+    background-image:url("bgpic3.jpg");
+    background-repeat:no-repeat;
+    background-size:1540px 800px;
+}
+
+.flex-container{
+    border:2px solid transparent;
+    display:flex;
+    height:700px;
+    justify-content:space-evenly;
+}
+
+.flex-items{
+    border:2px solid transparent;
+    background-color:rgba(0,0,0,0.3);
+    color:white;
+    border-radius:5px;
+    height:500px;
+    margin-left:30px;
+    text-align:center;
+    width:300px;
+    padding-right:20px;
+}
+
+.button1{
+    background-color:blue;
+    color:white;
+    margin-left:25px;
+}

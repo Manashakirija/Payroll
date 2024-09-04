@@ -1,0 +1,72 @@
+{
+  "Users": [
+    {
+      "Username": "manas",
+      "Email": "manas@gmail.com",
+      "Password": "1234",
+      "id": "3093"
+    },
+    {
+      "id": "1e7d",
+      "username": "manasa",
+      "email": "manasa@gmail.com",
+      "password": "kirija"
+    },
+    {
+      "id": "08b0",
+      "username": "pattu",
+      "email": "pattu@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "399d",
+      "username": "loga",
+      "email": "loga@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": "5ade",
+      "username": "logaa",
+      "email": "logaa@gmail.com",
+      "password": "12346"
+    },
+    {
+      "id": "6085",
+      "username": "fxdfsdf",
+      "email": "sdrs@gdfg",
+      "password": "sedse"
+    },
+    {
+      "id": "4ece",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "1023"
+    },
+    {
+      "id": "c5cc",
+      "username": "manu",
+      "email": "manu@gmail.com",
+      "password": "8056"
+    }
+  ],
+  "Employees": [
+    {
+      "Name": "Tae",
+      "Age": "23",
+      "Role": "Manager",
+      "Salary": "60000",
+      "Experience": "3 years",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa4xjShh4ynJbrgYrW_aB4lhKSxeMzQ3cO_A&usqp=CAU",
+      "id": "d00f"
+    },
+    {
+      "id": "e42a",
+      "Name": "Manas",
+      "Age": "22",
+      "Role": "research and developer",
+      "Salary": "40000",
+      "Experience": "1 year",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa4xjShh4ynJbrgYrW_aB4lhKSxeMzQ3cO_A&usqp=CAU"
+    }
+  ]
+}

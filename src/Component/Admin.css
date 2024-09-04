@@ -1,0 +1,124 @@
+.class1{
+    border:2px solid transparent;
+    height:1700px;
+    background-image:url("bgpic2.webp");
+    background-repeat:no-repeat;
+    background-size:1540px 1700px;
+}
+
+.container5{
+    max-width:800px;
+    margin:20px auto;
+    background-color:transparent;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.5);
+}
+
+.form1{
+    margin-bottom:20px;
+    background-color:rgba(0,0,0,0.3);
+    width:350px;
+    margin-left:240px;
+    border-radius:10px;
+}
+
+label{
+    display:block;
+    margin-bottom:8px;
+    margin-left:70px;
+    color:rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.lb1{
+    display:block;
+    margin-left:10px;
+}
+
+input{
+    padding:8px;
+    margin-left:70px;
+    margin-bottom:16px;
+    box-sizing:border-box;
+    border-radius:10px;
+    border:none;
+}
+
+.i1{
+    margin-left:10px;
+    border-radius:10px;
+    border:none;
+}
+
+button{
+    padding:8px 16px;
+    background-color:blue;
+    color:white;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    margin-left:140px;
+}
+
+.bt1{
+    padding:8px 16px;
+    background-color:blue;
+    color:white;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    margin-left:70px;
+
+}
+
+.bt2{
+    padding:8px 16px;
+    background-color:black;
+    color:white;
+    cursor:pointer;
+    margin-left:20px;
+}
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+.Popup{
+    position:absolute;
+    border-radius:10px;
+    background-color:rgba(0,0,0,0.3);
+    margin-left:200px;
+    margin-top:90px;
+    width:30%;
+    height:90%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.Popup-form2{
+    background-color:#dc3545;
+    color:white;
+    border:none;
+    border-radius:4px;
+    cursor:pointer;
+}
+
+th,td{
+    border:2px solid #ddd;
+    padding:10px;
+    text-align:left;
+}
+
+th{
+    background-color:rgba(0,0,0,0.3);
+    color:white;
+}
+
+td{
+    background-color:rgba(0,0,0,0.3);
+    color:white;
+}
+
